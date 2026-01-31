@@ -1,3 +1,11 @@
+---
+name: Bug Report
+about: Report a bug in the app
+title: "[Bug] "
+labels: bug
+assignees: 
+---
+
 **Bug Description**
 [Describe the bug clearly]
 
