@@ -1,2 +1,5 @@
-* @agents
+/docs/* @agents-po
+/src/* @agents-dev
+/tests/* @agents-test
+/.github/workflows/* @agents-devops
 * @honfui
