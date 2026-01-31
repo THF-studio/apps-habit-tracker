@@ -1,2 +1,5 @@
-* @agents
+/docs/* @THF-studio/agents-po
+/src/* @THF-studio/agents-dev
+/tests/* @THF-studio/agents-test
+/.github/workflows/* @THF-studio/agents-devops
 * @honfui
